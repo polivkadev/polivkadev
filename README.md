@@ -18,21 +18,32 @@ By day I lead a development team, mostly in Java, Kotlin and TypeScript. After h
 
 These days I build almost everything with **Claude Code** as my pair programmer.
 
-## 🚀 What I'm building
+## 🚀 Featured projects
+
+### 🎮 Games
 
 | Project | What it is |
 |---|---|
 | 🛰️ **[Signal Fall](https://github.com/PavlikPolivka/signal-fall)** | Fast Command & Conquer-style sci-fi RTS in the browser: three factions, generated maps, skirmish vs AI, online 1v1/2v2 with Elo, voiced campaigns. **[Play it →](https://signal-fall.app)** |
+| 🌾 **[Pixel Farm](https://github.com/PavlikPolivka/the-farm)** | Pixel-art farm clicker PWA for the whole family, with chiptune music, self-hosted on my homelab. |
+
+### 🧰 Developer tools
+
+| Project | What it is |
+|---|---|
+| 💬 **[Feedbacker](https://github.com/PavlikPolivka/feedbacker)** | Merge-request-style review page for coding agents: line comments on the diffs of several repos at once, sent back to the agent. CLI, MCP server and Claude Code plugin. |
+| 📺 **[code-stream-overlay](https://github.com/PavlikPolivka/code-stream-overlay)** | Live, repo-aware OBS overlays for coding streams: what you're building, progress and test status. Zero config: `npx code-stream-overlay`. |
+| 🦊 **[GitLab Projects](https://github.com/PavlikPolivka/GitLabProjects)** ⭐ 120+ | GitLab merge requests, snippets and more inside JetBrains IDEs. |
+| 🔄 **[convert-anything](https://github.com/PavlikPolivka/convert-anything)** | Modular CLI that converts audio, image and video files. |
+
+### 🐧 Linux & home
+
+| Project | What it is |
+|---|---|
 | ✨ **[Golden Record](https://github.com/PavlikPolivka/golden-record)** | Dark space theme for [Omarchy](https://omarchy.org) with gold accents and NASA backgrounds that change with the time of day. |
-| 🏠 **[homelab-mcp](https://github.com/PavlikPolivka/homelab-mcp)** | MCP server that lets Claude see my homelab and work on those machines over SSH. |
-| 🧮 **[Počítadlo](https://github.com/PavlikPolivka/pocitadlo)** | Math game I made for my daughter's iPad. She practises, the parents get a daily report. |
 | 🤖 **[Ten druhý](https://github.com/PavlikPolivka/ten-druhy)** | Family chatbot in the voice of a character from Czech sci-fi books, with RAG, long-term memory and Home Assistant integration. |
 
-## 🧩 Open source
-
-- **[GitLab Projects](https://github.com/PavlikPolivka/GitLabProjects)** ⭐ 120+: GitLab merge requests, snippets and more inside JetBrains IDEs.
-- **[Git Cleaner](https://github.com/PavlikPolivka/gitcleaner)**: removes stale git branches from JetBrains IDEs.
-- Contributing to **[Omarchy](https://github.com/omacom/omarchy)**, the opinionated Arch + Hyprland setup.
+I also contribute to **[Omarchy](https://github.com/omacom/omarchy)**, the opinionated Arch + Hyprland setup.
 
 ## 🛠️ Tools I use
 
