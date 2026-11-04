@@ -43,8 +43,6 @@ These days I build almost everything with **Claude Code** as my pair programmer.
 | ✨ **[Golden Record](https://github.com/PavlikPolivka/golden-record)** | Dark space theme for [Omarchy](https://omarchy.org) with gold accents and NASA backgrounds that change with the time of day. |
 | 🤖 **[Ten druhý](https://github.com/PavlikPolivka/ten-druhy)** | Family chatbot in the voice of a character from Czech sci-fi books, with RAG, long-term memory and Home Assistant integration. |
 
-I also contribute to **[Omarchy](https://github.com/omacom/omarchy)**, the opinionated Arch + Hyprland setup.
-
 ## 🛠️ Tools I use
 
 **Day job:** Java · Kotlin · TypeScript<br>
