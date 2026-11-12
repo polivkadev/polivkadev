@@ -1,62 +1,53 @@
-<h1 align="center">Hi, I'm Pavel 👋</h1>
+<p align="center">
+  <a href="https://polivka.dev"><img src="assets/banner.png" alt="polivka.dev: a pixel-art bowl of soup whose steam is code, next to the word POLIVKA.DEV. Something's always cooking." width="100%"></a>
+</p>
 
 <p align="center">
-  <b>Tech lead who still codes</b> · 15+ years building software · Prague 🇨🇿<br>
+  <b>Pavel Polívka</b> · tech lead who still codes · 15+ years of shipping · near Prague 🇨🇿<br>
   <i>Developer, music lover, writer and BATMAN!!!!!</i> 🦇
 </p>
 
 <p align="center">
-  <a href="https://www.ppolivka.com"><img src="https://img.shields.io/badge/ppolivka.com-111?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://dev.to/polivkadev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="dev.to"></a>
-  <a href="https://medium.com/@polivka-pavel"><img src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:pavel.polivka@hey.com"><img src="https://img.shields.io/badge/Email-5522FA?style=flat&logo=hey&logoColor=white" alt="Email"></a>
+  <a href="https://polivka.dev"><img src="https://img.shields.io/badge/polivka.dev-0b0d14?style=flat&logo=gnometerminal&logoColor=e3b341" alt="polivka.dev"></a>
+  <a href="https://www.youtube.com/@polivkadev"><img src="https://img.shields.io/badge/YouTube-@polivkadev-e3b341?style=flat&logo=youtube&logoColor=white&labelColor=0b0d14" alt="YouTube"></a>
+  <a href="https://dev.to/polivkadev"><img src="https://img.shields.io/badge/dev.to-polivkadev-e3b341?style=flat&logo=devdotto&logoColor=white&labelColor=0b0d14" alt="dev.to"></a>
+  <a href="mailto:pavel@polivka.dev"><img src="https://img.shields.io/badge/pavel@polivka.dev-e3b341?style=flat&logo=protonmail&logoColor=0b0d14" alt="Email"></a>
 </p>
 
 ---
 
-By day I lead a development team, mostly in Java, Kotlin and TypeScript. After hours I build games, tinker with my Linux desktop, wire AI agents into my homelab and write about what I learn.
+*Polívka* is Czech for soup. Something's always cooking: by day I lead a dev team, after hours I build games, dev tools and odd things for my house, mostly together with **Claude Code**. It types, I review.
 
-These days I build almost everything with **Claude Code** as my pair programmer.
+## 🍲 On the stove
 
-## 🚀 Featured projects
-
-### 🎮 Games
-
-| Project | What it is |
+| | What it is |
 |---|---|
-| 🛰️ **[Signal Fall](https://github.com/polivkadev/signal-fall)** | Fast Command & Conquer-style sci-fi RTS in the browser: three factions, generated maps, skirmish vs AI, online 1v1/2v2 with Elo, voiced campaigns. **[Play it →](https://signal-fall.app)** |
-| 🌾 **[Pixel Farm](https://github.com/polivkadev/the-farm)** | Pixel-art farm clicker PWA for the whole family, with chiptune music, self-hosted on my homelab. |
+| 🛰️ **[Signal Fall](https://github.com/polivkadev/signal-fall)** | Fast C&C-style sci-fi RTS in the browser: three factions, generated maps, skirmish vs AI, online 1v1/2v2 with Elo, voiced campaigns. Built end to end with Claude. **[Play it →](https://signal-fall.app)** |
+| 💬 **[Feedbacker](https://github.com/polivkadev/feedbacker)** | My AI agent writes the code, I review it like a merge request. Line comments across several repos, sent back to the agent. CLI, MCP server, Claude Code plugin. `npx agent-feedbacker` |
+| ✨ **[Golden Record](https://github.com/polivkadev/golden-record)** | Dark space theme for [Omarchy](https://omarchy.org): gold accents, NASA backgrounds that follow the time of day. The whole brand is in its colours. |
+| 🏠 **[homelab-mcp](https://github.com/polivkadev/homelab-mcp)** | MCP server that lets Claude see what runs on my home servers and fix it over SSH. |
+| 🤖 **[Ten druhý](https://github.com/polivkadev/ten-druhy)** | Family chatbot in the voice of a character from Czech sci-fi books. It has long-term memory and dreams at night. Yes, really. |
+| 📺 **[code-stream-overlay](https://github.com/polivkadev/code-stream-overlay)** | Live OBS overlays for coding streams: what you're building, progress, test status. `npx code-stream-overlay` |
 
-### 🧰 Developer tools
+## 🥄 Served earlier
 
-| Project | What it is |
-|---|---|
-| 💬 **[Feedbacker](https://github.com/polivkadev/feedbacker)** | Merge-request-style review page for coding agents: line comments on the diffs of several repos at once, sent back to the agent. CLI, MCP server and Claude Code plugin. |
-| 📺 **[code-stream-overlay](https://github.com/polivkadev/code-stream-overlay)** | Live, repo-aware OBS overlays for coding streams: what you're building, progress and test status. Zero config: `npx code-stream-overlay`. |
-| 🦊 **[GitLab Projects](https://github.com/polivkadev/GitLabProjects)** ⭐ 120+ | GitLab merge requests, snippets and more inside JetBrains IDEs. |
-| 🔄 **[convert-anything](https://github.com/polivkadev/convert-anything)** | Modular CLI that converts audio, image and video files. |
+- **[GitLab Projects](https://github.com/polivkadev/GitLabProjects)** ⭐ 120+: GitLab merge requests and snippets inside JetBrains IDEs.
+- **[gitcleaner](https://github.com/polivkadev/gitcleaner)**: removes stale git branches from JetBrains IDEs.
+- **[convert-anything](https://github.com/polivkadev/convert-anything)**: modular CLI that converts audio, image and video files.
 
-### 🐧 Linux & home
+## 🪦 Didn't make it
 
-| Project | What it is |
-|---|---|
-| ✨ **[Golden Record](https://github.com/polivkadev/golden-record)** | Dark space theme for [Omarchy](https://omarchy.org) with gold accents and NASA backgrounds that change with the time of day. |
-| 🤖 **[Ten druhý](https://github.com/polivkadev/ten-druhy)** | Family chatbot in the voice of a character from Czech sci-fi books, with RAG, long-term memory and Home Assistant integration. |
+Plenty of side projects never got finished. The best of them have tombstones in the **[graveyard on polivka.dev](https://polivka.dev/#graveyard)**.
 
-## 🛠️ Tools I use
+## 📺 Videos and ✍️ writing
 
-**Day job:** Java · Kotlin · TypeScript<br>
-**Side projects:** TypeScript · Node · Bun · Vercel · Supabase · Claude Code<br>
-**Daily driver:** Omarchy on Asahi Linux, on an M1 MacBook Air · Zed · Home Assistant
+Videos about building things with AI, the bugs included: **[youtube.com/@polivkadev](https://www.youtube.com/@polivkadev)**. First episode is still cooking.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,nodejs,bun,vercel,supabase,linux,arch,blender&perline=10" alt="Tech stack">
-</p>
-
-## ✍️ Writing
-
-I write practical posts for developers on **[dev.to](https://dev.to/polivkadev)** and **[Medium](https://medium.com/@polivka-pavel)**. Latest: running Omarchy on an M1 MacBook Air.
+Latest on [dev.to](https://dev.to/polivkadev):
+- [I got tired of Google Discover, so I built my own news feed in a day](https://dev.to/polivkadev/i-got-tired-of-google-discover-so-i-built-my-own-news-feed-in-a-day-1g2c)
+- [I review my AI agent's code like a merge request](https://dev.to/polivkadev/i-review-my-ai-agents-code-like-a-merge-request-3elj)
+- [Google Sheets is my favourite free backend](https://dev.to/polivkadev/google-sheets-is-my-favourite-free-backend-4no5)
 
 ---
 
-<p align="center"><sub>Currently into: RTS games · Blender · electronics · Voyager's golden records 🛸</sub></p>
+<p align="center"><sub>Daily driver: Omarchy on Asahi Linux on an M1 MacBook Air · Zed · Home Assistant · too much coffee ☕</sub></p>
